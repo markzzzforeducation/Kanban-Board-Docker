@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/markzzzforeducation/Kanban-Board
+[submodule "backend"]
+	path = backend
+	url = https://github.com/markzzzforeducation/Kanban-Board-Backend
